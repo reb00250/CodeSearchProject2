@@ -1,4 +1,4 @@
-package CodeSearchProject2;
+package com.example.project2;
 
 public class Util {
     public void performAction() {
